@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="No Twitter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="rxversedd" height="30" width="40" /></a>
+
 <a href="https://youtube.com/channel/UCkrfA46q9XC50frb8XKg67A" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="UCSUbY-L1scKvtIPOLq5E_Ng" height="30" width="40" /></a>
 <a href="https://discord.gg/JbHtskvczj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Epik#1234" height="30" width="40" /></a>
 </p>
