@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Epik</h1>
+<h1 align="center">Ez</h1>
 <h3 align="center">Team Gravity On Top.</h3>
 
 - I’m currently working on **GravityBot**
