@@ -1,11 +1,7 @@
-<h1 align="center">Ez</h1>
 <h3 align="center">Team Gravity On Top.</h3>
 
 - I’m currently working on **GravityBot**
-
-- 🌱 I’m currently learning **Java.**
-
-- 📫 How to reach me **Epik#3024.**
+- 📫 My Discord **Epik#3024.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,6 +17,6 @@
 
 ![Epiks github stats!](https://github-readme-stats.vercel.app/api?username=Epik123&show_icons=true&theme=tokyonight) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Epik123&theme=tokyonight)](https://github.com/Epik123/github-readme-stats)
+
 
 
