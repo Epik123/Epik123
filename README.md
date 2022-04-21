@@ -13,6 +13,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Epik123&repo=TeamGravity&show_owner=true&theme=tokyonight)](https://github.com/Epik123/TeamGravity)
 
 ![Epiks github stats!](https://github-readme-stats.vercel.app/api?username=Epik123&show_icons=true&theme=tokyonight) 
+[![#Epiks Discords](https://discord.c99.nl/widget/theme-4/695817459206324265.png)](https://discord.com/users/935327013470883890)
 
 <a href="https://discord.com/users/935327013470883890" target="_blank"><img alt="Final#6969" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
