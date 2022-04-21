@@ -14,6 +14,8 @@
 
 ![Epiks github stats!](https://github-readme-stats.vercel.app/api?username=Epik123&show_icons=true&theme=tokyonight) 
 
+<a href="https://discord.com/users/935327013470883890" target="_blank"><img alt="Final#6969" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+
 
 
 
