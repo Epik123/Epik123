@@ -1,6 +1,6 @@
 <h3 align="center">Team Gravity On Top.</h3>
 
-- I’m currently working on **Odin Discord Bot**
+- I’m currently working on **Spectrum XV**
 - 📫 My Discord **Final#6969.**
 
 <h3 align="left">Connect with me:</h3>
