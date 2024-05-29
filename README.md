@@ -1,7 +1,7 @@
 <h3 align="center">Team Gravity On Top.</h3>
 
-- I’m currently working on **DeathField Loader**
-- 📫 My Discord **rintop.**
+- I’m currently working on **N/A(too random atm)**
+- 📫 My Discord **Izumi.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
